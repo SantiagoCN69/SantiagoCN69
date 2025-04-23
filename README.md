@@ -1,7 +1,7 @@
 # 👋 Hola, soy Santiago
 
 💻 Desarrollador web en constante aprendizaje. Me gusta crear sitios bien diseñados, funcionales y con buen rendimiento.  
-🧠 En constante Aprendizaje.
+🧠 En constante aprendizaje.
 
 ## ⚙️ Tecnologías
 
@@ -28,4 +28,4 @@
 
 ---
 
-📩 Si quieres contactarme o ver más de mi trabajo, Explora mis repositorios o escríbeme por redes.
+📩 Contacto: **santiagocn08@gmail.com**
