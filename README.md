@@ -24,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-333?style=flat&logo=responsive&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Cybersecurity-2E3440?style=flat&logo=hackthebox&logoColor=green)
 
 ---
 
