@@ -14,10 +14,11 @@
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white) -->
 
 ### Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat&logo=firebase&logoColor=white)
 <!--![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)-->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ### Otros  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
